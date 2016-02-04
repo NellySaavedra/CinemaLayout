@@ -1,0 +1,136 @@
+
+.container{
+	width: 90%;
+	margin: 0 auto;
+}
+*{
+	font-family: Arial;
+}
+.Encabezado{
+	width: 100%;
+	height: 20%;
+	position: relative;
+}
+.logo{
+	display: inline-block;
+	position: absolute;
+}
+.Busqueda{
+	width: 120px;
+	height: 30px;
+	padding-left: 7px;
+	padding-top: 8px;
+	border: 2px solid gray;
+	color: gray;
+	font-family: Arial;
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 1070px;
+}
+.Banner {
+	width: 100%;
+	display: inline-block;
+	margin-top: 3%;
+}
+.imgBanner{
+	display: inline-block;
+}
+.Info{
+	width: 30%;
+	height: 70%;
+	border: 2px solid red;
+	position: absolute;
+	margin-top: 10%;
+	margin-left: 55%;
+}
+h1{
+	color: white;
+}
+.PadreAmarillo{
+	width: 100%;
+	margin: 2px solid red;
+	background-color: orange;
+	text-align: center;
+	
+}
+.Amarillo {
+	width: 130px;
+	height: 150px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.DosCajas {
+ 	width: 100%;
+	height: 550px;
+	margin: 0px;
+	display: inline-block;
+}
+.CajaUno{
+	width: 45%;
+	height: 550px;
+	margin-left: 25px;
+	display: inline-block;
+}
+.CajaDos {
+	width: 45%;
+	height: 550px;
+	margin: 0px;
+	display: inline-block;
+	position: absolute;
+}
+.Gray {
+	color: gray;
+	font-size: 25px;
+}
+.Book{
+	font-size: 50px;
+}
+.BotNaranja{
+	width: 200px;
+	height: 80px;
+	color: white;
+	background-color: orange;
+	border-radius: 5px;
+	font-size: 30px;
+	text-align: center;
+}
+.video-responsive {
+    position: relative;
+    margin-bottom: 20px;
+    padding-top: 56.25%;
+}
+.video-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.Get{
+	color: red;
+}
+.Lorem{
+	font-size: 25px;
+}
+.GraySmall {
+	font-size: 20px;
+	color: gray;
+}
+.More{
+	color: orange;
+}
+.CarteleraDos{
+	width: 100%;
+	height: 400%;
+	text-align: center;
+}
+.C2{
+	width: 200px;
+	height: 200px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: inline-block;
+	padding-top: 2%;
+
+}
