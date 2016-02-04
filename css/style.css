@@ -1,10 +1,10 @@
 
-.container{
-	width: 90%;
-	margin: 0 auto;
-}
 *{
 	font-family: Arial;
+}
+.container{
+	width: 100%;
+	margin: 0 auto;
 }
 .Encabezado{
 	width: 100%;
@@ -22,10 +22,9 @@
 	padding-top: 8px;
 	border: 2px solid gray;
 	color: gray;
-	font-family: Arial;
 	position: absolute;
 	margin-top: 15px;
-	margin-left: 1070px;
+	margin-left: 1200px;
 }
 .Banner {
 	width: 100%;
@@ -38,27 +37,69 @@
 .Info{
 	width: 30%;
 	height: 70%;
-	border: 2px solid red;
 	position: absolute;
 	margin-top: 10%;
-	margin-left: 55%;
+	margin-left: 68%;
 }
 h1{
 	color: white;
+}
+.All{
+	width: 70px;
+	height: 30px;
+	border: 2px solid #228B22;
+	border-radius: 4px;
+	color:	#228B22;
+	text-align: center;
+	padding-top: 8px;
+}
+.Don{
+	color: white;
+	width: 200px;
+	height: 30px;
+	position: absolute;
+	margin-left: 90px;
+	margin-top: -33px;
+}
+table{
+	width: 400px;
+	height: 90px;
+	color: white;
+	padding: 30px 0px;
+}
+td {
+	padding: 10px 0px;
+}
+p{
+	color: white;
+}
+.bot{
+	width: 150px;
+	height: 50px;
+	border-radius: 7px;
+	color: white;
+	text-align: center;
+}
+.BotText {
+	padding-top: 16px;
+}
+.watch {
+	background-color: #FF8C00;
+}
+.book {
+	background-color: #FF4500;
 }
 .PadreAmarillo{
 	width: 100%;
 	margin: 2px solid red;
 	background-color: orange;
 	text-align: center;
-	
 }
 .Amarillo {
 	width: 130px;
 	height: 150px;
 	display: inline-block;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin: 15px 30px;
 }
 .DosCajas {
  	width: 100%;
@@ -85,15 +126,21 @@ h1{
 }
 .Book{
 	font-size: 50px;
+	color: black;
 }
 .BotNaranja{
 	width: 200px;
 	height: 80px;
 	color: white;
-	background-color: orange;
+	background-color: #FF4500;
 	border-radius: 5px;
 	font-size: 30px;
 	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 2px;
+}
+.BotNaranjaP{
+	padding-top: 23px;
 }
 .video-responsive {
     position: relative;
@@ -108,10 +155,11 @@ h1{
     height: 100%;
 }
 .Get{
-	color: red;
+	color: #8B0000;
 }
 .Lorem{
 	font-size: 25px;
+	color: black;
 }
 .GraySmall {
 	font-size: 20px;
@@ -127,10 +175,9 @@ h1{
 }
 .C2{
 	width: 200px;
-	height: 200px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	display: inline-block;
+	height: 300px;
+	margin: 10px 35px;
 	padding-top: 2%;
-
+	display: inline-block;
+	text-align: center;
 }
